@@ -12,8 +12,8 @@
 - ⚡ Fun fact: I change hobbies often, who knows, maybe we can do one together
 
 
-### Stats
-[![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=RexKho)](https://github.com/RexKho/github-readme-stats)
+<!-- ### Stats -->
+<!-- [![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=RexKho)](https://github.com/RexKho/github-readme-stats) -->
 
 
 <!--
