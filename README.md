@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on finishing touches on my projects.
+- 🌱 I’m currently learning implementing new features on my projects.
+- 🤔 I’m looking for help with learning new and cool features!
+- 💬 Ask me about anything! Feel free to reach out to me, I won't bite.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khorex/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I change hobbies often, who knows, maybe we can do one together
+
 <!--
 **RexKho/RexKho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
