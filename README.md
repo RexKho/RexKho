@@ -1,6 +1,7 @@
 ### Welcome to my github!
 
-<img align="right" alt="GIF" src="https://www.reddit.com/r/gifs/comments/7z2wjw/seriously_best_youtube_watcher/" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/98872331/214471298-fe37aaab-f12a-405f-bd98-69f61ebc8e09.gif" width="500" height="320" />
+
 
 - 🔭 I’m currently working on finishing touches on my projects.
 - 🌱 I’m currently learning implementing new features on my projects.
